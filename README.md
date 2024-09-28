@@ -8,7 +8,8 @@
 
 ---
 <br>
-### 🔧SKILLS
+
+### 🔧 SKILLS
 
    ✅ BACK-END 
    ✅ FRONT-END
