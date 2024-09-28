@@ -1,6 +1,6 @@
-### * 💻 FULL-STACK DEVELOPER* 
+### *💻 FULL-STACK DEVELOPER* 
 
-### *** 🚀 TO BECOME A BACK-END DEVELOPER***
+### ***🚀 TO BECOME A BACK-END DEVELOPER***
 
 
 
