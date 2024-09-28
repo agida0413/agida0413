@@ -11,11 +11,11 @@
 
 ### 🔧 SKILLS
 
-   ✅ BACK-END 
+   ✅ **BACK-END** 
    <br>
-   ✅ FRONT-END
+   ✅ **FRONT-END**
    <br>
-   ✅ DB
+   ✅ **DB**
    <br>
-   ✅ DEVOPS / CLOUD
+   ✅ **DEVOPS / CLOUD**
    <br>
