@@ -12,6 +12,10 @@
 ### 🔧 SKILLS
 
    ✅ BACK-END 
+   <br>
    ✅ FRONT-END
+   <br>
    ✅ DB
-   ✅ DEVOPS / CLOUD 
+   <br>
+   ✅ DEVOPS / CLOUD
+   <br>
