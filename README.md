@@ -80,4 +80,4 @@
 
 <br>
 
--  *<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT (관심사 기반 SNS)</a>*  &nbsp;&nbsp;  [2024.07 ~ 2024.09]
+-  *<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT &nbsp;(관심사 기반 SNS)</a>*  &nbsp;&nbsp;  [2024 .07 ~ 2024 .09]
