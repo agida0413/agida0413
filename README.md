@@ -33,10 +33,19 @@
      <span><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"></span>
  </div>   
 
+
+
+
+
+
+
    ✅ **DB**
 
    <div>  <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></span> &nbsp
    </div>
+
+
+
 
 
    
