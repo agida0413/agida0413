@@ -1,9 +1,7 @@
-### Hi 👋 
-
 ### *FULL-STACK DEVELOPER* 
 
 ### ***TO BECOME A BACK-END DEVELOPER***
-<span style="color: red;">이 글자는 빨간색입니다.</span>
+
 
 
 ---
