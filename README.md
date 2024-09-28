@@ -1,8 +1,10 @@
-#### Hi 👋 
+## Hi 👋 
+
+####  I *AM* 
 
 ##### *FULL-STACK DEVELOPER* 
 
- ***to become a <u>BACK-END DEVELOPER***</u>  
+ ***to become a <span style="color:red;"> BACK-END DEVELOPER</span>***  
 
 
 
