@@ -80,4 +80,4 @@
 
 <br>
 
-- SHABBY PROJECT (관심사 기반 SNS) 
+-  *SHABBY PROJECT (관심사 기반 SNS)* - > <a href="">보러가기</> 
