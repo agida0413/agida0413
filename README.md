@@ -7,3 +7,10 @@
 
 
 ---
+<br>
+### 🔧SKILLS
+
+   ✅ BACK-END 
+   ✅ FRONT-END
+   ✅ DB
+   ✅ DEVOPS / CLOUD 
