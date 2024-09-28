@@ -61,7 +61,6 @@
    ✅ **DEVOPS / CLOUD**
 
    <div>
-      <span><img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-007396?style=for-the-badge&logo=amazonaws&logoColor=white"></span> &nbsp;
        <span><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"></span> &nbsp;
       <span><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"></span> &nbsp;
       <span><img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"></span> &nbsp;
