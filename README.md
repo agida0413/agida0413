@@ -1,3 +1,12 @@
-## Hi 👋 I am FULL-STACK DEVELOPER 
- to become a BACK-END DEVELOPER  
+## Hi 👋 
+
+####  I *AM* 
+
+##### *FULL-STACK DEVELOPER* 
+
+ ***to become a <u>BACK-END DEVELOPER***</u>  
+
+
+
+
 
