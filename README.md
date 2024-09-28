@@ -80,4 +80,4 @@
 
 <br>
 
--  *SHABBY PROJECT (관심사 기반 SNS)* - > <a href="">보러가기</> 
+-  *<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT (관심사 기반 SNS)</a>*
