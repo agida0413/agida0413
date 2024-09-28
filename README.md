@@ -2,7 +2,7 @@
 
 ### *FULL-STACK DEVELOPER* 
 
-### ***to become a BACK-END DEVELOPER***
+### ***TO BECOME A BACK-END DEVELOPER***
 
 
 
