@@ -6,7 +6,7 @@
 
 <br>
 
-### ***🚀 Velog <a href="https://velog.io/@agida0413/posts">이동하기 </a>***
+### ***🚀  <a href="https://velog.io/@agida0413/posts">Velog 이동하기 </a>***
 
 ---
 
