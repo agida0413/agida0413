@@ -2,8 +2,8 @@
 
 ### ***🚀 TO BECOME A BACK-END DEVELOPER***
 
-
-
+### ***🚀 Velog
+<a href="https://velog.io/@agida0413/posts">Agida</a>
 ---
 
 
