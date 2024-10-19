@@ -80,6 +80,8 @@
 
 
 
-<br>
+<br
 
--  &nbsp;*<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT &nbsp;(관심사 기반 SNS)</a>*  &nbsp;&nbsp;  [2024 .07 ~ 2024 .09]
+
+-  &nbsp;*<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT &nbsp;(관심사 기반 SNS)</a>*  &nbsp;&nbsp;  [2024 .07. 21 ~ 2024 .09. 25]
+-  &nbsp;*<a href=">https://github.com/agida0413/CI-CD-Pipeline-Project">CI/CD PIPE-LINE PROJECT &nbsp;(Docker + CI/CD자동화 및 브랜치전략 구축)</a>*  &nbsp;&nbsp;  [2024 .10. 08 ~ 2024 .10. 19]
