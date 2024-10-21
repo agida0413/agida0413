@@ -1,10 +1,8 @@
 ### *💻 FULL-STACK DEVELOPER* 
 
-<br>
+
 
 ### ***🚀 TO BECOME A BACK-END DEVELOPER***
-
-<br>
 
 ### ***🚀  <a href="https://velog.io/@agida0413/posts">Velog 이동하기 </a>***
 
