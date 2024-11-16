@@ -80,8 +80,6 @@
    ---
 
 
-[![깃허브 커밋 스택](https://streak-stats.demolab.com?user=agida0413&theme=transparent&locale=ko)]
-
    
 ### 📚 PROJECT HISTORY 
 
@@ -92,3 +90,12 @@
 
 -  &nbsp;*<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT &nbsp;(관심사 기반 SNS)</a>*  &nbsp;&nbsp;  [ 2024 .07. 21 ~ 2024 .09. 25 ] - SOLO
 -  &nbsp;*<a href="https://github.com/agida0413/CI-CD-Pipeline-Project">CI/CD PIPE-LINE PROJECT &nbsp;(Docker +GithubActions CI/CD자동화 및 브랜치전략 구축)</a>*  &nbsp;&nbsp;  [ 2024 .10. 08 ~ 2024 .10. 19 ] - SOLO
+
+
+
+
+
+
+
+<br>
+[![깃허브 커밋 스택](https://streak-stats.demolab.com?user=agida0413&theme=transparent&locale=ko)]
