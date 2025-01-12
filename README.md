@@ -32,11 +32,6 @@
 
 
  
-   ✅ **FRONT-END**
-
-   <div>  <span><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></span> &nbsp;    
- 
- </div>   
 
 
 
@@ -69,6 +64,17 @@
              <span><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/></span> &nbsp;
   
    </div>
+
+
+
+
+<br>
+
+   ✅ **FRONT-END**
+
+   <div>  <span><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></span> &nbsp;    
+ 
+ </div>   
 
 
    ---
