@@ -61,7 +61,7 @@ const BackendDeveloper = {
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
-### 🗄 **Database & Cache**
+### 🗄 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -100,72 +100,6 @@ const BackendDeveloper = {
 
 ---
 
-## 🏆 **PROJECT SHOWCASE**
-
-<div align="center">
-
-### 🌟 **Featured Projects**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌊 [**Bottle Story**](https://github.com/orgs/Bottle-Story/repositories)
-**실시간 유리병 편지 서비스**
-- **Period**: 2025.08 ~ 2025.09
-- **Tech**: Spring Boot, Kafka, Redis GEO, WebSocket
-- **Architecture**: MSA, Event-Driven
-- **Highlights**:
-  - 위치 기반 실시간 메시징 시스템
-  - 3D UI (React Three Fiber)
-  - 날씨 연동 동적 씬 변화
-  - Kubernetes 기반 배포
-
-</td>
-<td width="50%">
-
-### 🗣 [**Random Chat Project**](https://github.com/agida0413/Rand_Chat_Project)
-**위치기반 랜덤채팅**
-- **Period**: 2024.11 ~ 2025.01
-- **Tech**: Spring Boot, WebSocket, Redis
-- **Features**:
-  - 실시간 위치 기반 매칭
-  - 익명 채팅 시스템
-  - 다중 채팅방 관리
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔗 [**Shabby Project**](https://github.com/agida0413/ShabbyProject)
-**관심사 기반 SNS**
-- **Period**: 2024.07 ~ 2024.09
-- **Tech**: Spring Boot, MyBatis, Vue.js
-- **Features**:
-  - 관심사 기반 사용자 매칭
-  - 소셜 피드 시스템
-  - RESTful API 설계
-
-</td>
-<td width="50%">
-
-### 🚀 [**CI/CD Pipeline Project**](https://github.com/agida0413/CI-CD-Pipeline-Project)
-**자동화 배포 파이프라인**
-- **Period**: 2024.10.08 ~ 2024.10.19
-- **Tech**: Docker, GitHub Actions, K8s
-- **Achievement**:
-  - 완전 자동화된 CI/CD 구축
-  - 브랜치 전략 수립
-  - 무중단 배포 구현
-
-</td>
-</tr>
-</table>
-
----
 
 ## 💡 **CORE COMPETENCIES**
 
@@ -195,13 +129,6 @@ mindmap
 
 </div>
 
-### 🎯 **전문 분야**
-
-- **🏗 MSA 설계**: 서비스 분할, 이벤트 기반 아키텍처, API 게이트웨이 패턴
-- **⚡ 성능 최적화**: Redis 캐싱 전략, DB 쿼리 튜닝, JVM 메모리 최적화, 비동기 처리
-- **🔄 실시간 시스템**: WebSocket, Kafka 메시징, 실시간 데이터 처리
-- **☁️ 클라우드 네이티브**: Kubernetes, Docker, 자동화 배포
-- **🛠 Core 아키텍처**: 재사용 가능한 공통 라이브러리 설계, Nexus 배포 자동화
 
 ### 💡 **개발 접근 방식**
 
@@ -213,10 +140,7 @@ public class PerformanceOptimizedService {
     // 🚀 캐시 전략으로 조회 성능 개선
     @Cacheable(value = "userCache", key = "#userId")
     public User findUser(Long userId) { ... }
-    
-    // ⚡ 비동기 처리로 응답 속도 향상  
-    @Async
-    public CompletableFuture<List<Data>> processLargeData() { ... }
+  
     
     // 🎯 배치 처리로 DB 부하 최소화
     @BatchSize(50)
@@ -239,22 +163,7 @@ public class PerformanceOptimizedService {
 
 </div>
 
-**🔍 현재 깊이 있게 탐구 중인 분야:**
-- 🔥 **JVM 튜닝**: GC 알고리즘 분석, 힙 메모리 최적화 실험
-- ⚡ **Kafka Internals**: 파티션 전략, 컨슈머 그룹 최적화, 처리량 극대화
-- 🌐 **Spring WebFlux**: 논블로킹 I/O로 성능 한계 돌파 연구
-- 🔧 **Redis Advanced**: 클러스터링, 샤딩, 메모리 최적화 기법
-- 🏗 **Architecture Patterns**: CQRS, Event Sourcing 실무 적용 실험
 
-**🎯 성능 측정 & 모니터링:**
-- **Micrometer** + **Grafana**로 메트릭 시각화
-- **JProfiler**를 통한 애플리케이션 프로파일링
-- **APM 도구** 활용한 병목 지점 분석
-
-**📖 오픈소스 기여 로드맵:**
-- **Spring Kafka**: 성능 최적화 관련 개선사항 기여
-- **Spring Data Redis**: GEO 연산 최적화 제안
-- **자체 Core 라이브러리**: 오픈소스로 공개 준비 중
 
 ---
 
@@ -286,7 +195,7 @@ public class PerformanceOptimizedService {
 **💼 추구하는 가치:**
 - 🌱 **지속적인 학습**: 새로운 기술 습득과 깊이 있는 이해
 - 🤝 **협업과 소통**: 팀워크를 통한 시너지 창출
-- 🎨 **아름다운 코드**: 가독성과 유지보수성을 고려한 코드 작성
+- 🎨 **클린 코드**: 가독성과 유지보수성을 고려한 코드 작성
 - ⚡ **성능과 안정성**: 사용자 경험을 최우선으로 생각
 
 </div>
