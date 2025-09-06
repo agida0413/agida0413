@@ -69,12 +69,13 @@
 <br>
 
 
--  &nbsp;*<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT &nbsp;(관심사 기반 SNS)</a>*  &nbsp;&nbsp;  [ 2024 .07. 28 ~ 2024 .09. 25 ] - SOLO
+-  &nbsp;*<a href="https://github.com/agida0413/ShabbyProject">SHABBY PROJECT &nbsp;(관심사 기반 SNS)</a>*  &nbsp;&nbsp;  [ 2024 .07. 28 ~ 2024 .09. 25 ] 
   
--  &nbsp;*<a href="https://github.com/agida0413/CI-CD-Pipeline-Project">CI/CD PIPE-LINE PROJECT &nbsp;(Docker +GithubActions CI/CD자동화 및 브랜치전략 구축)</a>*  &nbsp;&nbsp;  [ 2024 .10. 08 ~ 2024 .10. 19 ] - SOLO
+-  &nbsp;*<a href="https://github.com/agida0413/CI-CD-Pipeline-Project">CI/CD PIPE-LINE PROJECT &nbsp;(Docker +GithubActions CI/CD자동화 및 브랜치전략 구축)</a>*  &nbsp;&nbsp;  [ 2024 .10. 08 ~ 2024 .10. 19 ] 
 
--  &nbsp;*<a href="https://github.com/agida0413/Rand_Chat_Project">RAN CHAT PROJECT &nbsp;(위치기반 랜덤채팅)</a>*  &nbsp;&nbsp;  [ 2024 .11. 19 ~ 2025 .01. 17 ] - TEAM
+-  &nbsp;*<a href="https://github.com/agida0413/Rand_Chat_Project">RAN CHAT PROJECT &nbsp;(위치기반 랜덤채팅)</a>*  &nbsp;&nbsp;  [ 2024 .11. 19 ~ 2025 .01. 17 ] 
 
+-  &nbsp;*<a href="https://github.com/orgs/Bottle-Story/repositories">유리병 속 이야기 Project </a>*  &nbsp;&nbsp;  [ 2025 .08  ~ 2025 .09 ] 
 
 
 
