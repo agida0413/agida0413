@@ -155,11 +155,7 @@ public class PerformanceOptimizedService {
 
 ---
 
-## 📈 **RECENT ACTIVITIES**
 
-<div align="center">
-
-### 📚 **Deep Learning Journey**
 
 </div>
 
