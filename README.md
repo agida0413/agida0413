@@ -166,11 +166,11 @@ public class PerformanceOptimizedService {
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@agida0413/posts)
 
 **📚 주요 포스팅 주제:**
- MSA 아키텍처 설계 경험
- Kafka를 활용한 이벤트 기반 시스템
- Redis 고급 활용법 (GEO, Sorted Set)
- Kubernetes 실무 적용기
- Spring Boot 성능 최적화
+- MSA 아키텍처 설계 경험
+- Kafka를 활용한 이벤트 기반 시스템
+- Redis 고급 활용법 (GEO, Sorted Set)
+- Kubernetes 실무 적용기
+- Spring Boot 성능 최적화
 
 </div>
 
@@ -183,10 +183,10 @@ public class PerformanceOptimizedService {
 ### 🚀 **"더 나은 개발자로 성장하며, 팀과 함께 가치를 창조하는 것"**
 
 **💼 추구하는 가치:**
- 🌱 **지속적인 학습**: 새로운 기술 습득과 깊이 있는 이해
- 🤝 **협업과 소통**: 팀워크를 통한 시너지 창출
- 🎨 **클린 코드**: 가독성과 유지보수성을 고려한 코드 작성
-  ⚡ **성능과 안정성**: 사용자 경험을 최우선으로 생각
+- 🌱 **지속적인 학습**: 새로운 기술 습득과 깊이 있는 이해
+- 🤝 **협업과 소통**: 팀워크를 통한 시너지 창출
+- 🎨 **클린 코드**: 가독성과 유지보수성을 고려한 코드 작성
+- ⚡ **성능과 안정성**: 사용자 경험을 최우선으로 생각
 
 </div>
 
