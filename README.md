@@ -50,13 +50,9 @@
    
    ✅ **DEVOPS / CLOUD**
 
-   ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-   ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonS3&logoColor=white)
-   ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-   ![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-4B8BBE?style=for-the-badge&logo=amazonaws&logoColor=white)
+
    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
    ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-   ![ElastiCache](https://img.shields.io/badge/ElastiCache-blue?style=for-the-badge&logo=amazonaws&logoColor=white)
    ![NGINX](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
