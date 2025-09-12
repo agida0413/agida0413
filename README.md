@@ -42,7 +42,7 @@ const BackendDeveloper = {
 
 <div align="center">
 
-### 🌟 **"기초를 탄탄히, 성능을 극한까지, 코드로 가치를 창조합니다"**
+### 🌟 **"기초를 탄탄히, 성능을 극한까지"**
 
 </div>
 
