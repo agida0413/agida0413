@@ -101,34 +101,6 @@ const BackendDeveloper = {
 ---
 
 
-## 💡 **CORE COMPETENCIES**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Backend
-    Developer))
-    MSA Architecture
-      Service Decomposition
-      Event Driven Architecture
-      API Gateway Pattern
-    Performance
-      Caching Strategy
-      Database Optimization  
-      Load Balancing
-    DevOps
-      Container Orchestration
-      CI/CD Pipeline
-      Monitoring & Logging
-    Real-time Systems
-      WebSocket Communication
-      Message Queue (Kafka)
-      Push Notification
-```
-
-</div>
-
 
 ### 💡 **개발 접근 방식**
 
