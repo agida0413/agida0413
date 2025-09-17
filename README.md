@@ -137,12 +137,7 @@ public class PerformanceOptimizedService {
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@agida0413/posts)
 
-**📚 주요 포스팅 주제:**
-- MSA 아키텍처 설계 경험
-- Kafka를 활용한 이벤트 기반 시스템
-- Redis 고급 활용법 (GEO, Sorted Set)
-- Kubernetes 실무 적용기
-- Spring Boot 성능 최적화
+
 
 </div>
 
