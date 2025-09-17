@@ -112,7 +112,7 @@ const BackendDeveloper = {
 ### 💡 **개발 접근 방식**
 
 ```java
-// 성능을 고려한 코드 작성 예시
+
 @Component
 public class PerformanceOptimizedService {
     
