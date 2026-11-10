@@ -17,7 +17,7 @@ const BackendDeveloper = {
     name: "김용준 (Kim Yong Jun)",
     location: "Seoul, South Korea 🇰🇷",
     role: "Backend Developer",
-    experience: "1+ years",
+    experience: "2+ years",
     
     // 🔥 개발 철학
     philosophy: {
