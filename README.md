@@ -40,7 +40,7 @@ const BackendDeveloper = {
         "LLM · RAG 기반 서비스의 정확도와 신뢰성",
         "하이브리드 검색 (BM25 + Vector) & OCR 파이프라인"
     ],
-    recentProject: "Receipt2Vec — 영수증 OCR + RAG 가계부 챗봇 (https://kyj.ai.kr)",
+    recentProject: "Receipt2Vec — 영수증 OCR + RAG 가계부 챗봇 ,
     motto: "기초가 탄탄해야 높이 올라갈 수 있다"
 };
 ```
@@ -112,7 +112,7 @@ const BackendDeveloper = {
 
 ### 🧾 [Receipt2Vec](https://github.com/agida0413/Receipt2Vec) — 영수증 OCR + RAG 가계부 챗봇
 > 영수증 사진 한 장으로 지출을 기록하고, **"이번 달 카페에 얼마 썼어?"** 처럼 대화로 묻는 AI 가계부
-> 🔗 **Live** : [https://kyj.ai.kr](https://kyj.ai.kr)
+
 
 <div align="center">
 <img src="https://github.com/agida0413/Receipt2Vec/raw/master/docs/images/architecture.png" width="90%" alt="Receipt2Vec Architecture"/>
